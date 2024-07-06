@@ -50,6 +50,26 @@ The project successfully implements a serverless architecture using AWS Lambda a
 - **Automatic Refresh:** The quote generator automatically refreshes if the user leaves and returns to the page, ensuring a new quote is displayed.
 - **Dynamic Updates:** Users can refresh the page or revisit it to see a new random quote, enhancing user engagement.
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/FarahIbrar/aws-random-quote-generator/blob/main/gifs/aws-rqg-code.gif" alt="aws-rqg-code" />
+    </td>
+    <td>
+      <img src="https://github.com/FarahIbrar/aws-random-quote-generator/blob/main/gifs/aws-rqg-api.gif" alt="aws-rqg-api" />
+    </td>
+  </tr>
+</table>
+
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="https://github.com/FarahIbrar/aws-random-quote-generator/blob/main/gifs/aws-rqg-output.gif" style="width: auto; height: auto;" alt="aws-rqg-output" />
+</div>
+
+---
+
+## Link to access `Random Quote Generator`
+Whenever you visit [this page](https://brdxxee29g.execute-api.eu-west-2.amazonaws.com/RQG), a new quote will be displayed. You can also refresh the page to see another quote.
+
 ---
 
 ## Conclusion
