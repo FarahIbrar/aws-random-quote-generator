@@ -1,5 +1,5 @@
 import pytest
-from lambda_function import lambda_handler
+from Lambda_function_rqg_aws import lambda_handler
 
 def test_lambda_handler():
     event = {}
